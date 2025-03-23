@@ -5,7 +5,7 @@
     "description": "Launcher d'Arcus",
     "main": "src/app.js",
     "author": "Riptiaz/Boulldogo/Vexato/Luuxis",
-    "env": "azuriom",
+    "env": "panel",
     "settings": "https://arcus.free.nf",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
